@@ -1,0 +1,9 @@
+function error = compute_error(u_function,xh,uHat)
+    NN = 10000
+    u_function(NN)
+
+    
+    max(sin(xf)-yf)
+end
+
+
